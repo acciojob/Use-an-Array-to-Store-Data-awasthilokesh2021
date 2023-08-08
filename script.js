@@ -1,4 +1,4 @@
 let yourArray = 
 	["one",3,true,null," "]
 
-consol.log(yourArray.length);
+consol.log(yourArray().length);
