@@ -1,5 +1,5 @@
 let yourArray = 
-	["one",3,true,null," "]
+	['one', 2, 'three', true, false, undefined, null]
 
 let obj = object.assign({},yourArray)
 console.log(obj)
